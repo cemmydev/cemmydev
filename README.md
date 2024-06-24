@@ -9,8 +9,7 @@ Dedicated and efficient full stack developer with 7+ years experience in applica
 - 📫 How to reach me: skype:live:.cid.39bde0a4c4e80a5
 - 😄 Pronouns: he / him / they
 - ⚡ Fun fact: ...
--->
-
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VQ2RdNKU) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cem-ozkanat-a81186296/) 
 
